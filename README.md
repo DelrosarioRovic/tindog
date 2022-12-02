@@ -1,2 +1,1 @@
-# tindog
-tindog dog shop
+TinDog Starting Files
